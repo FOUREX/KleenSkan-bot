@@ -5,11 +5,11 @@
     ```
 
 2.  ```shell
-    venv\Scripts\activate
+    . venv/Scripts/activate
     ```
     або
     ```shell
-    venv\bin\activate
+    . venv/bin/activate
     ```
 
 3. ```shell
